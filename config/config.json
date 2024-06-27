@@ -1,0 +1,15 @@
+{
+  "network": {
+    "chainId": 1337,
+    "rpcUrl": "https://mainnet.infura.io/v3/YOUR_PROJECT_ID"
+  },
+  "contracts": {
+    "AIModelRegistry": "0x...ContractAddress...",
+    "AIModelStore": "0x...ContractAddress...",
+    "DecentralAI": "0x...ContractAddress..."
+  },
+  "environment": {
+    "development": true,
+    "debug": true
+  }
+}
